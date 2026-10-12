@@ -12,4 +12,4 @@ Allow users to enter trades and view and updated trade history list across multi
 
 ## How to Run
 
-- need to us npm install
+- npm install
