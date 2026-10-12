@@ -13,3 +13,5 @@ Allow users to enter trades and view and updated trade history list across multi
 ## How to Run
 
 - npm install
+- node src/server.cjs
+- npm run dev
