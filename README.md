@@ -8,10 +8,10 @@
 ## Prototype Description
 A simple prototype that demonstrates real-time communication between connected browsers.
 
-Allow users to enter trades and view and updated trade history list across multiple window simultaneously.
+Allows users to enter trades and view and updated trade history list across multiple window simultaneously.
 
 ## How to Run
 
 - npm install
-- node src/server.cjs
+- node src/server.cjs (leave running)
 - npm run dev
